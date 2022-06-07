@@ -1,0 +1,26 @@
+.content-moreInformation {
+  background-color: #0f171e;
+  color: white;
+  width: 90%;
+  text-align: start;
+}
+@media (max-width: 575px) {
+  .content-moreInformation {
+    width: 100%;
+    margin-top: 57px;
+  }
+}
+.content-moreInformation .main-description {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%;
+  margin-top: 50px;
+}
+.content-moreInformation .main-description .feature, .content-moreInformation .main-description .howUse {
+  width: 60%;
+}
+.content-moreInformation .main-description .tec {
+  width: 38%;
+}
+
+/*# sourceMappingURL=MoreInformation.css.map */

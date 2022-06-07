@@ -1,0 +1,55 @@
+@import "../../Index";
+
+.section-home{
+  height: 100vh;
+  position: relative;
+  .bg-image{
+    background-position: inherit;
+    height: 100vh;
+    width: 100vw;
+    filter: blur(11px);
+  }
+  .override{
+    background-image: linear-gradient(to bottom right, black 4%, blue,red 66%);
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    opacity: 0.6;
+  }
+  .section-info{
+    position: absolute;
+    top: 25vh;
+    width: 100%;
+    .container{
+
+      .row{
+        .img{
+
+          img{
+            border-radius: 50%;
+
+          }
+        }
+        .icons{
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          font-size: 30px;
+          svg{
+            width: 50px;
+            height: 50px;
+            padding: 10px;
+            text-align: center;
+
+          }
+
+        }
+
+
+
+
+      }
+    }
+  }
+}

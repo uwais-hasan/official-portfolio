@@ -1,0 +1,40 @@
+
+@import 'Index';
+@import "GlobalStyle.css";
+.App {
+  text-align: center;
+  display: flex;
+  align-content: center;
+  box-sizing: border-box;
+  position: relative;
+  p,h1,span{
+    padding: 0;
+    margin: 0;
+  }
+.btn-convert-lang{
+position: fixed;
+  background: red;
+  z-index: 10;
+  right: 19px;
+  top: 11px;
+  @media (max-width: 575px) {
+    top: 63px;
+  }
+  button{
+    background: #4b4cd8;
+    padding: 14px;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    right: 8%;
+    top: 10px;
+  }
+}
+
+}
+
+
+
+
+
+

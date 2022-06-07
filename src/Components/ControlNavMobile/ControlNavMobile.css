@@ -1,0 +1,22 @@
+.nav-mobile {
+  width: 100%;
+  position: fixed;
+  background: #1c2531;
+  height: 57px;
+  z-index: 1000000000000000000000;
+  top: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-mobile .menu {
+  font-size: 20px;
+  color: white;
+}
+.nav-mobile img {
+  width: 10%;
+  border-radius: 50%;
+  height: auto;
+}
+
+/*# sourceMappingURL=ControlNavMobile.css.map */

@@ -1,0 +1,45 @@
+.global-title {
+  color: white;
+  font-size: 30px;
+}
+
+.global-text {
+  color: white;
+  font-size: 30px;
+}
+
+.global-para {
+  color: white;
+  font-size: 20px;
+}
+
+.global-des {
+  color: white;
+  font-size: 20px;
+  opacity: 0.7;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.white {
+  color: white;
+}
+
+.opacity {
+  opacity: 0.6;
+}
+
+.style-border-left {
+  background: #1c2631;
+  border-left: 5px solid #2d3ddf;
+  padding: 10px;
+}
+
+.style-title {
+  text-align: start;
+  padding-bottom: 10px;
+}
+
+/*# sourceMappingURL=GlobalStyle.css.map */

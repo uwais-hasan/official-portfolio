@@ -1,0 +1,40 @@
+
+@import "Index";
+.global-title{
+  color: white;
+  font-size: 30px;
+}
+.global-text{
+  color: white;
+  font-size: 30px;
+}
+
+.global-para{
+  color: white;
+  font-size: 20px;
+
+}
+.global-des{
+  color: white;
+  font-size: 20px;
+  opacity: .7;
+}
+
+.text-decoration-none{
+  text-decoration: none;
+}
+.white{
+  color: white
+}
+.opacity{
+  opacity: .6;
+}
+.style-border-left{
+  background: $box-bg;
+  border-left: 5px solid $basic_bg-color;
+  padding: 10px;
+}
+.style-title{
+  text-align: start;
+  padding-bottom: 10px;
+}

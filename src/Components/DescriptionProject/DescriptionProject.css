@@ -1,0 +1,21 @@
+.descriptionProject {
+  display: flex;
+  gap: 10px;
+  background: #1c2631;
+  margin: 10px 10px 10px 0;
+  align-items: center;
+  padding: 10px;
+  border-left: 5px solid #2d3ddf;
+}
+.descriptionProject p {
+  padding: 0;
+  margin: 0;
+}
+.descriptionProject svg {
+  color: #2d3ddf;
+}
+.descriptionProject:hover svg {
+  color: white;
+}
+
+/*# sourceMappingURL=DescriptionProject.css.map */

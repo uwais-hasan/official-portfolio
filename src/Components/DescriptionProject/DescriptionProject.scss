@@ -1,0 +1,25 @@
+
+@import "../../Index";
+
+.descriptionProject{
+  display: flex;
+  gap: 10px;
+  background: $box-bg;
+  margin: 10px 10px 10px 0;
+align-items: center;
+  padding: 10px;
+  border-left: 5px solid $basic_bg-color;
+  p{
+    padding: 0;
+    margin: 0;
+  }
+  svg{
+    color: $basic_bg-color;
+
+  }
+  &:hover svg{
+
+      color:white
+
+  }
+}

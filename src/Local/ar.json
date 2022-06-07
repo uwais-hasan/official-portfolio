@@ -1,0 +1,98 @@
+
+
+{
+
+  "name": "أويس حسن",
+  "about_me": "مطور ويب للواجهة الأمامية مع مجموعة واسعة من المهارات والتقنيات",
+  "more_about_me": "مطور واجهة مبتكر. شغوف بالحصول على أعلى أداء ممكن. يحافظ على وعي محدث بالاتجاهات التكنولوجية والتقدم التكنولوجي.",
+  "career": "مطور ويب للواجهات الامامية",
+  "skills": "المهارات",
+  "language": "اللغات",
+  "see_more": " شاهد المزيد ",
+  "github": "جيت هب",
+  "live": "شاهد الموقع",
+
+
+
+ "data":{
+   "Other portfolio for test":{
+     "param": "Other portfolio for test",
+     "name":"محفظة أخرى للاختبار",
+     "des":"يحتوي هذا المشروع على بعض الميزات مثل الوضع المظلم ووضع الإضاءة ويمكنك تغيير كل الألوان على موقع الويب بمستوى عالٍ من الأداء ",
+     "link":["https://github.com/owies-hassan/test-portfolio","http://test-portfolio-owies.surge.sh"],
+     "img":["../Img/portfolio/portfolio-1.png","../Img/portfolio/portfolio-2.png","../Img/portfolio/portfolio-3.png","../Img/portfolio/portfolio-4.png","../Img/portfolio/portfolio-5.png","../Img/portfolio/portfolio-6.png","../Img/portfolio/portfolio-7.png"],
+     "tec":["react","redux","sass","react-router-dom","react-bootstrap-icons","react-simple-typewriter","framer-motion"],
+     "future":["يمكنك تغيير لون كل موقع الويب" , "الوضع المظلم ووضع الإضاءة" , "موقع ويب SPA المستجيب بمستوى عالٍ من الأداء" , "درجة التقدم الديناميكي تشغيل تلقائي ..."],
+     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
+
+   },
+   "A big general template":{
+     "param": "A big general template",
+     "name":"نموذج عام كبير",
+     "des":"يحتوي هذا المشروع على حوالي 50 صفحة و بمستوى أداء عال ...",
+     "link":["https://github.com/owies-hassan/template","http://owies-h-template.surge.sh"],
+     "img":["../Img/template/template-1.jpg","../Img/template/template-2.jpg","../Img/template/template-3.jpg","../Img/template/template-4.jpg","../Img/template/template-5.jpg","../Img/template/template-6.jpg"],
+     "tec":["react","redux","sass","axios","swiper","material ui","react-router-dom","react-instagram-embed","json"],
+     "future":["يحتوي هذا القالب على حوالي 50 صفحة" , "يمكنك البحث عن أي صفحات (عمل البحث عند كتابة صفحة العنوان)" , "مستجيب تمامًا" , "يحتوي هذا القالب على فئة على الشريط الجانبي (طعام ، منشور ، إلخ ...)" , "لدينا نموذج Lightbox و swiper" , "معظم التصميم على سطح المكتب مختلف على الهاتف المحمول" , "سأجعلك تستكشف هذا النموذج لإظهار الكثير من الميزات الساحرة التي لم أتحدث عنها"],
+     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
+
+   },
+   "project Movies":{
+     "param":"project Movies",
+     "name":"بروجيكت الافلام",
+     "des":"يحتوي هذا المشروع على جميع الأفلام والمسلسلات والأفلام الشائعة وجميع أنواع الأفلام [أكشن ، تلفزيون ، أنمي ، رعب ، إلخ ..] يمكنك البحث عن فيلمك وإظهار تفاصيل هذه الأفلام",
+     "link":["https://github.com/owies-hassan/movies","http://films-owies.surge.sh"],
+     "img":["../Img/Movies/movies-1.jpg","../Img/Movies/movies-2.jpg","../Img/Movies/movies-3.jpg","../Img/Movies/movies-4.jpg","../Img/Movies/movies-5.jpg","../Img/Movies/movies-6.jpg"],
+     "tec":["react","axios","swiper","react-router-dom","bootstrap","material ui"],
+     "future":["صفحة تتجه للأفلام الجديدة وتحتوي على حوالي 5000 فيلم وأكثر" , "أيضًا صفحة للمسلسلات والتلفزيون" , "صفحة للحصول على تفاصيل الفيلم (عرض جميع النجوم والمقطع الدعائي ووصف عن الفيلم)" , "صفحة للبحث عن أي فيلم أنت في حاجة إليها وصفحات للمسلسلات والتلفزيون "," يمكنك تصفية أي نوع من الأفلام ، على سبيل المثال يمكنك الحصول على جميع الأفلام التي تحتوي على حركة أو دراما وما إلى ذلك ... "," أقوم بإنشاء ترقيم الصفحات عندما تحتاج إلى عرض المزيد من الأفلام ويمكنك العثور عليها على صفحات البرامج التلفزيونية الرائجة والمسلسلات "],
+     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
+
+   },
+   "App Quiz":{
+     "param": "App Quiz",
+     "name":"بروجيكت الاسئلة",
+     "des":"يمكنك اختبار معلوماتك حول هذا التطبيق ، ويمكنك اختيار نوع من الأسئلة [كتب ، وتقنيات ، وأفلام ، وما إلى ذلك ..] ونوع صعب السؤال [خطأ متعدد أو صحيح] وأيضًا يمكنك اختيار عدد من الأسئلة ربما تحتاج 5 سؤال أو 12 إلخ ... ",
+     "link":["https://github.com/owies-hassan/application-quiz","http://applicatuin-quiz-owies.surge.sh"],
+     "img":["../Img/quiz/quiz-2.jpg","../Img/quiz/quiz-1.jpg","../Img/quiz/quiz-3.jpg","../Img/quiz/quiz-4.jpg","../Img/quiz/quiz-5.jpg"],
+     "tec":["react","redux","swiper","axios","react-route-dom","animate.css","material ui"],
+     "future":["يمكنك اختيار فئة متعددة حول السؤال" , "مستجيب تمامًا" , "يمكنك تحديد مدى صعوبة [سهل ، متوسط ، صعب]" , "يمكنك تحديد مقدار الأسئلة" , "كل سؤال يحتاج إلى 30 ثانية للإجابة" , "إذا اخترت إجابة الخطأ ، فستعرف الإجابة الصحيحة" , "أخيرًا عند انتهاء التطبيق ، سترى النتيجة حول جميع المعلومات"],
+     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
+
+   },
+   "App Weather":{
+     "param":"App Weather",
+     "name":"بروجيكت الطقس",
+     "des":"عرض حالة الطقس في ولايتك حاليًا على بلدك مع توقعات لمدة أسبوع",
+     "link":["https://github.com/owies-hassan/weather"," http://application-weather-owies.surge.sh"],
+     "img":["../Img/weather/weather-1.png","../Img/weather/weather-2.png","../Img/weather/weather-3.png","../Img/weather/weather-4.png"],
+     "tec":["react","redux","sass","axios","swiper","bootstrap-icons"],
+     "future":["عرض حالة الطقس حاليًا" , "عرض تنبؤات الطقس بالولاية" , "استجابة كاملة" , "تغيير صورة الخلفية لطقس الاتفاق" , "يمكنك إظهار جميع التوقعات للأسبوع" , "يمكنك البحث عن الطقس تلقائيًا وستظهر حالة الطقس"],
+     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
+
+   },
+   "App E-commerce":{
+     "param":  "App E-commerce",
+     "name":"بروجيكت متجر الكتروني",
+     "des":"يمكنك شراء الكثير من المنتجات ورؤية تفاصيل حول أي منتج .. صفحات مقصودة أيضًا بمستوى عالٍ من الأداء ، والاستجابة الكاملة ، وتحسين الصور,",
+     "link":["https://github.com/owies-hassan/E-commerce"," http://e-commerce-owies.surge.sh"],
+     "img":["../Img/ecommerce/ecommerce-1.png","../Img/ecommerce/ecommerce-1.5.png","../Img/ecommerce/ecommerce-2.png","../Img/ecommerce/ecommerce-3.png","../Img/ecommerce/ecommerce-4.png","../Img/ecommerce/ecommerce-5.png","../Img/ecommerce/ecommerce-6.png","../Img/ecommerce/ecommerce-7.png","../Img/ecommerce/ecommerce-8.png","../Img/ecommerce/ecommerce-9.png","../Img/ecommerce/ecommerce-10.png","../Img/ecommerce/ecommerce-11.png","../Img/ecommerce/ecommerce-12.png"],
+     "tec":["react","redux","sass","axios","swiper","animate.css","react-router-dom","material ui"],
+     "future":["يمكنك التسجيل وتسجيل الدخول" , "مستجيب تمامًا" , "الصفحة الرئيسية يمكنك تصفية أي فئة" , "صفحة تفاصيل المنتج" , "صفحة للشراء وإحصاء جميع الأسعار" , "صفحة المنتجات أيضًا ولكني وضعت جميع المنتجات عليها swiper "," لتحديث معلوماتك في ملف تعريف الصفحة "],
+     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
+   },
+   "App News":{
+     "param":  "App News",
+     "name":"بروجيكت الاخبار",
+     "des":"شاهد جميع أخبار العالم ويمكنك تحديد نوع الأخبار [رياضة ، تقنيات ، ثقافية ، إلخ ..] وتحقق من أي صحيفة [cnn ، إلخ ..] ويمكنك البحث عن أي أخبار تحتاجها",
+     "link":["https://github.com/owies-hassan/news-public","https://github.com/owies-hassan/news-public"],
+     "img":["../Img/news/news-1.png","../Img/news/news-2.png","../Img/news/news-3.png","../Img/news/news-4.png","../Img/news/news-5.png"],
+     "tec":["react","redux","sass","typescript","swiper"],
+     "future":["يمكنك مشاهدة الأخبار حاليًا" , "يمكنك الاطلاع على أخبار CNN و Axios والمزيد من الصحف" , "يمكنك اختيار أي بلد لمشاهدة الأخبار" , "يمكنك تحديد الأخبار [الرياضة ، السياسة ، الثقافة ، إلخ ..] "," يمكنك البحث عن أي أخبار "," عند النقر فوق أي أخبار ستترجم إلى تفاصيل الصفحة وسترى جميع الأخبار المتعلقة بهذه الأخبار "],
+     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
+
+   }
+ }
+
+
+
+}

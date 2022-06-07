@@ -1,0 +1,44 @@
+
+@import "../../Index";
+.swiper-Details{
+  padding-top: 50px;
+  .global-para{
+    text-align: start;
+  }
+  .content-swiper{
+    background-color: $box-bg;
+    padding-top: 20px;
+
+    .mySwiper2 {
+
+      width: 96%;
+      img{
+        width: 100%;
+        height: 500px;
+        cursor: pointer;
+        @media (max-width: 575px) {
+          height: auto;
+        }
+
+      }
+    }
+    .mySwiper {
+      margin-top: 20px;
+      height: 20%;
+      box-sizing: border-box;
+      padding: 10px 0;
+      width: 96%;
+
+      img{
+        width: 100%;
+        height: 100px;
+        cursor: pointer;
+        @media (max-width: 575px) {
+          height: 100%;
+        }
+
+      }
+    }
+  }
+
+}

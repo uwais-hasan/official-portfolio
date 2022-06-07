@@ -1,0 +1,26 @@
+@import "../../Index";
+
+.content-moreInformation {
+  background-color: $basic-bg-color-2;
+  color: white;
+  width: 90%;
+  text-align: start;
+  @media (max-width: 575px) {
+    width: 100%;
+    margin-top: 57px;
+  }
+
+
+  .main-description{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%;
+    margin-top: 50px;
+    .feature,.howUse{
+      width: 60%;
+    }
+    .tec{
+      width: 38%;
+    }
+  }
+}

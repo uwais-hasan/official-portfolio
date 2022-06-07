@@ -1,0 +1,75 @@
+@import "../../Index";
+
+.section-Profile{
+  background-color: $basic-bg-color-2;
+  color: white;
+  width: 90%;
+  padding: 50px 20px;
+  @media (max-width: 575px) {
+    width: 100%;
+    margin-top: 57px;
+  }
+  .size-text{
+    padding-bottom: 25px;
+  }
+  .intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+    @media (max-width: 575px) {
+      flex-direction: column;
+    }
+    img{
+      border-radius: 50%;
+    }
+    .icons{
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      font-size: 30px;
+      svg{
+        width: 50px;
+        height: 50px;
+        padding: 10px;
+        text-align: center;
+      }
+    }
+
+  }
+
+.information{
+  display: flex;
+  align-items: center;
+  @media (max-width: 575px) {
+    flex-direction: column;
+  }
+  svg{
+    font-size: 40px;
+  }
+}
+
+  .skills{
+    .global-title{
+      padding: 50px 0 10px;
+    }
+   .content-skills,.content-language{
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     gap: 10px;
+     margin-top: 20px;
+     .style-border-left{
+       width: 24%;
+       padding: 15px;
+       display: flex;
+       gap: 20px;
+       align-items: center;
+       @media (max-width: 575px) {
+         width: 100%;
+       }
+
+     }
+   }
+  }
+}

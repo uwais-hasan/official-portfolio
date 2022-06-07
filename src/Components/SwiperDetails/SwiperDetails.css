@@ -1,0 +1,42 @@
+.swiper-Details {
+  padding-top: 50px;
+}
+.swiper-Details .global-para {
+  text-align: start;
+}
+.swiper-Details .content-swiper {
+  background-color: #1c2631;
+  padding-top: 20px;
+}
+.swiper-Details .content-swiper .mySwiper2 {
+  width: 96%;
+}
+.swiper-Details .content-swiper .mySwiper2 img {
+  width: 100%;
+  height: 500px;
+  cursor: pointer;
+}
+@media (max-width: 575px) {
+  .swiper-Details .content-swiper .mySwiper2 img {
+    height: auto;
+  }
+}
+.swiper-Details .content-swiper .mySwiper {
+  margin-top: 20px;
+  height: 20%;
+  box-sizing: border-box;
+  padding: 10px 0;
+  width: 96%;
+}
+.swiper-Details .content-swiper .mySwiper img {
+  width: 100%;
+  height: 100px;
+  cursor: pointer;
+}
+@media (max-width: 575px) {
+  .swiper-Details .content-swiper .mySwiper img {
+    height: 100%;
+  }
+}
+
+/*# sourceMappingURL=SwiperDetails.css.map */

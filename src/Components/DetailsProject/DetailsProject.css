@@ -1,0 +1,61 @@
+.content-details {
+  width: 30%;
+  position: relative;
+  cursor: pointer;
+}
+@media (max-width: 575px) {
+  .content-details {
+    width: 100%;
+  }
+}
+.content-details .img {
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 575px) {
+  .content-details .img {
+    transform: scale(1) !important;
+  }
+}
+.content-details .content-details-info {
+  background-color: #1c2631;
+  position: absolute;
+  top: 53%;
+  z-index: 10;
+  padding: 10px;
+  width: 100%;
+}
+@media (max-width: 575px) {
+  .content-details .content-details-info {
+    position: static;
+    transform: scale(1) !important;
+  }
+}
+.content-details .content-details-info p {
+  color: white;
+}
+.content-details .content-details-info .global-des {
+  font-size: 15px;
+  padding: 10px;
+  opacity: 1;
+}
+.content-details .content-details-info .content-details-skills {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.content-details .content-details-info .content-details-skills p {
+  border: 1px solid white;
+  padding: 10px;
+}
+.content-details .content-details-info .style-btn {
+  padding: 10px;
+  margin: 10px;
+  background: #2d3ddf;
+  border: 1px solid white;
+  color: white;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=DetailsProject.css.map */

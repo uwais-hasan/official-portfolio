@@ -1,0 +1,81 @@
+.sideBar {
+  width: 10%;
+  background-color: #2d3ddf;
+  position: relative;
+}
+.sideBar .img-cycle {
+  width: 100%;
+  margin-top: 30px;
+}
+@media (max-width: 575px) {
+  .sideBar .img-cycle {
+    margin-top: 76px;
+  }
+}
+.sideBar .img-cycle img {
+  width: 70%;
+  border-radius: 50%;
+}
+.sideBar .icons {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+@media (max-width: 575px) {
+  .sideBar .icons {
+    margin-top: 28px;
+  }
+}
+.sideBar .icons svg {
+  font-size: 30px;
+  color: white;
+}
+
+.sideBarMobile {
+  background-color: #2d3ddf;
+  position: absolute;
+  z-index: 100000000000;
+  width: 50%;
+  height: 100%;
+}
+.sideBarMobile .img-cycle {
+  width: 50%;
+}
+.sideBarMobile .img-cycle img {
+  width: 100%;
+  border-radius: 50%;
+}
+.sideBarMobile .menuIcon svg {
+  position: absolute;
+  top: 0;
+  right: -24px;
+  color: red;
+  font-size: 40px;
+}
+
+.none {
+  position: absolute;
+  transform: translateX(-100%);
+  transition: 0.3s ease-in-out;
+  height: 100%;
+  width: 100%;
+  z-index: 1000000000000;
+}
+
+.mobile {
+  position: fixed;
+  z-index: 10000000000000;
+  transform: translateX(0%);
+  width: 100%;
+  height: 100%;
+  transition: 0.3s ease-in-out;
+}
+
+.desktop {
+  display: block;
+}
+
+/*# sourceMappingURL=SideBar.css.map */

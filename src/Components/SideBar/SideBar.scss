@@ -1,0 +1,77 @@
+@import "../../Index";
+.sideBar{
+width: 10%;
+  background-color: $basic_bg-color;
+  position: relative;
+  .img-cycle{
+    width: 100%;
+    margin-top: 30px;
+    @media (max-width: 575px) {
+      margin-top: 76px;
+    }
+    img{
+      width: 70%;
+      border-radius: 50%;
+    }
+
+  }
+  .icons{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    @media (max-width: 575px) {
+      margin-top: 28px;
+    }
+    svg{
+      font-size: 30px;
+      color: white;
+    }
+  }
+}
+.sideBarMobile{
+  background-color: #2d3ddf;
+  position: absolute;
+  z-index: 100000000000;
+  width: 50%;
+  height: 100%;
+  .img-cycle{
+    width: 50%;
+    img{
+      width: 100%;
+      border-radius: 50%;
+    }
+  }
+  .menuIcon svg{
+    position: absolute;
+    top: 0;
+    right: -24px;
+    color: red;
+    font-size: 40px;
+  }
+}
+
+.none{
+  position: absolute;
+  transform: translateX(-100%);
+  transition: .3s ease-in-out;
+  height: 100%;
+  width: 100%;
+  z-index: 1000000000000;
+}
+
+.mobile{
+  position: fixed;
+
+  z-index: 10000000000000;
+  transform: translateX(0%);
+  width: 100%;
+  height: 100%;
+  transition: .3s ease-in-out;
+
+}
+.desktop{
+  display: block;
+}
