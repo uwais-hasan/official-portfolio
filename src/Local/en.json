@@ -13,6 +13,16 @@
   "live": "live",
 
 "data": {
+  "E-commerce-node":{
+    "param":  "E-commerce-node",
+    "name":"E-commerce-node",
+    "des":"you can login in or register,buy a lot of products,search products,profile user,dashBord products,and if you be an admin you can add and delete products and set any user to admin and so more also Landing pages with a high level of performance, fully responsive, image optimization",
+    "link":["https://github.com/owies-hassan/Node-ecommerce"," http://owies-ecomerce2022.surge.sh"],
+    "img":["../Img/ecommerce-node/eco-1.png","../Img/ecommerce-node/eco-2.png","../Img/ecommerce-node/eco-3.png","../Img/ecommerce-node/eco-4.png","../Img/ecommerce-node/eco-5.png","../Img/ecommerce-node/eco-6.png","../Img/ecommerce-node/eco-7.png","../Img/ecommerce-node/eco-8.png","../Img/ecommerce-node/eco-9.png"],
+    "tec":["react","node","redux","sass","axios","swiper","animate.css","react-router-dom","material ui"],
+    "future":["you can  register and login","buy a lot of products","Page dashBord","page profile user","add and delete product","fully responsive","page home you can filter any category","page details product","page for buy and count all prices","and so more"],
+    "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
+  },
   "Other portfolio for test":{
     "param": "Other portfolio for test",
     "name":"Other portfolio for test",
@@ -39,14 +49,16 @@
     "param":"project Movies",
     "name":"project Movies",
     "des":"this project contain all movies and series and trending and all kind of movies[action,tv,anime,horror etc..] you can search about your film and show details this films",
-    "link":["https://github.com/owies-hassan/movies","http://films-owies.surge.sh"],
+    "link":["https://github.com/owies-hassan/movies","http://movies-egbest.surge.sh"],
     "img":["../Img/Movies/movies-1.jpg","../Img/Movies/movies-2.jpg","../Img/Movies/movies-3.jpg","../Img/Movies/movies-4.jpg","../Img/Movies/movies-5.jpg","../Img/Movies/movies-6.jpg"],
     "tec":["react","axios","swiper","react-router-dom","bootstrap","material ui"],
     "future":["page trending for new movies and contain about 5000 movies and more","also page for series and tv ","page for details movie (show all stars and trailer and desc about movie)","page for search for any movie you need it and pages for series and tv","you can filter any type of movies exmple you can get all movies contain action or drama etc...","I create the pagination when you need show more movies and you can find it on pages tv trending and series"],
     "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
 
   },
-  "App Quiz": {"name":"App Quiz",
+  "App Quiz": {
+    "param":"App Quiz",
+    "name":"App Quiz",
     "des":"you can quiz your information about this app,you can pick kind of questions[books,technologies,film,etc..] and kind difficult of question [multiple or true false] and also you can pick number of question perhaps you need 5 question or 12 etc...",
     "link":["https://github.com/owies-hassan/application-quiz","http://applicatuin-quiz-owies.surge.sh"],
     "img":["../Img/quiz/quiz-2.jpg","../Img/quiz/quiz-1.jpg","../Img/quiz/quiz-3.jpg","../Img/quiz/quiz-4.jpg","../Img/quiz/quiz-5.jpg"],
@@ -54,40 +66,9 @@
     "future":["you can pick multiple category about question","fully responsive","you can determine how difficult [easy,medium,hard]","you can determine amount the questions","every question need to 30 second to answer","if you pick the error answer you will know what the truth answer","finlly when the application done you will see the result about all information"],
     "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
 
-  },
-  "App Weather":{
-    "param":"App Weather",
-    "name":"App Weather",
-    "des":"show your state weather currently on your country with forecast for a week",
-    "link":["https://github.com/owies-hassan/weather"," http://application-weather-owies.surge.sh"],
-    "img":["../Img/weather/weather-1.png","../Img/weather/weather-2.png","../Img/weather/weather-3.png","../Img/weather/weather-4.png"],
-    "tec":["react","redux","sass","axios","swiper","bootstrap-icons"],
-    "future":["view state weather currently","view state weather forecasts","fully responsive","change background image accord weather","you can show all forecast for week"," you can search about weather automatic you will show the weather"],
-    "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
-
-  },
-  "App E-commerce":{
-    "param":  "App E-commerce",
-    "name":"App E-commerce",
-    "des":"you can buy a alot of prodact and saw details about any produuct..also Landing pages with a high level of performance, fully responsive, image optimization",
-    "link":["https://github.com/owies-hassan/E-commerce"," http://e-commerce-owies.surge.sh"],
-    "img":["../Img/ecommerce/ecommerce-1.png","../Img/ecommerce/ecommerce-1.5.png","../Img/ecommerce/ecommerce-2.png","../Img/ecommerce/ecommerce-3.png","../Img/ecommerce/ecommerce-4.png","../Img/ecommerce/ecommerce-5.png","../Img/ecommerce/ecommerce-6.png","../Img/ecommerce/ecommerce-7.png","../Img/ecommerce/ecommerce-8.png","../Img/ecommerce/ecommerce-9.png","../Img/ecommerce/ecommerce-10.png","../Img/ecommerce/ecommerce-11.png","../Img/ecommerce/ecommerce-12.png"],
-    "tec":["react","redux","sass","axios","swiper","animate.css","react-router-dom","material ui"],
-    "future":["you can  register and login","fully responsive","page home you can filter any category","page details product","page for buy and count all prices"," page also for products but I put all products on swiper","page for update your information in page profile"],
-    "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
-  },
-  "App News":{
-    "param":  "App News",
-    "name":"App News",
-    "des":"see all world news and you can determine kind of news [sport,technologies,cultural etc..] and check out any newspaper[cnn,etc..] and you can search about any news you need",
-    "link":["https://github.com/owies-hassan/news-public","https://github.com/owies-hassan/news-public"],
-    "img":["../Img/news/news-1.png","../Img/news/news-2.png","../Img/news/news-3.png","../Img/news/news-4.png","../Img/news/news-5.png"],
-    "tec":["react","redux","sass","typescript","swiper"],
-    "future":["you can see news currently","you can see news a cnn and an axios and more newspapers","you can pick any country to see news it","you can determine news [sport,policy,cultural etc..]","you can search about any news","on click on any news you will translate to page details and will see all news relate this news "],
-    "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"],
-    "note": "this project just work on localhost because api which I used don't work on server so you can clone this project on your editor and npm start with add this library and all thing is right"
-
   }
+
+
 }
 
 

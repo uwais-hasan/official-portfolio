@@ -10,17 +10,12 @@ import {useTranslation} from "react-i18next";
 
 const Profile = () => {
 
-     const style=useStyleMotion()
+
     const [t]=useTranslation()
 
     return (
-        <motion.div
-            variants={style.exitRouterProfile}
-                    initial='hidden'
-                    animate='visible'
-                    exit='exit'
-
-                    className='section-Profile '>
+        <div
+        className='section-Profile '>
       <Container>
        <div className='intro'>
            <AboutMe/>
@@ -57,7 +52,7 @@ const Profile = () => {
               </div>
           </div>
       </Container>
-        </motion.div>
+        </div>
     );
 };
 

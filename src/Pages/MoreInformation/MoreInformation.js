@@ -11,11 +11,15 @@ import DescriptionProject from "../../Components/DescriptionProject/DescriptionP
 import SwiperDetails from "../../Components/SwiperDetails/SwiperDetails";
 import {JournalCode, StarFill, Wrench} from "react-bootstrap-icons";
 import {useTranslation} from "react-i18next";
+import {forEach} from "react-bootstrap/ElementChildren";
 const MoreInformation = () => {
 
     const [toggleApiLang,setToggleApiLang]=useState(en)
     const {nameProject}=useParams()
     const {t,i18n}=useTranslation()
+
+
+
 
 
     useEffect(()=>{

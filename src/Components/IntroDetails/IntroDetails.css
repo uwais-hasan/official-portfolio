@@ -6,6 +6,11 @@
   height: 100vh;
   opacity: 0.3;
 }
+@media (max-width: 575px) {
+  .section-intro .bg-image {
+    height: 82vh;
+  }
+}
 .section-intro .content {
   position: absolute;
   top: 0;

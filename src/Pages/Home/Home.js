@@ -14,10 +14,7 @@ const Home = () => {
 
     return (
         <motion.div
-            variants={style.exitRouter}
-            inital='hidden'
-            animate='visible'
-            exit='exit'
+
             className='section-home' >
 
 
@@ -32,6 +29,7 @@ const Home = () => {
                     </div>
                 </Container>
             </div>
+
 
         </motion.div>
 

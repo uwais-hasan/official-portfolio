@@ -8,10 +8,11 @@ import useStyleMotion from "../../Components/Hooks/useStyleMotion";
 import {useTranslation} from "react-i18next";
 import ar from '../../Local/ar.json'
 import en from '../../Local/en.json'
+import data from "bootstrap/js/src/dom/data";
 const Project = () => {
 
     const [toggleApiLang,setToggleApiLang]=useState(en)
-    const style=useStyleMotion()
+
 
     const {t,i18n}=useTranslation()
 
@@ -27,10 +28,7 @@ const Project = () => {
 
     return (
         <motion.div
-            variants={style.exitRouterProfile}
-            initial='hidden'
-            animate='visible'
-            exit='exit'
+
 
             className='section-project'>
             {Object.values(toggleApiLang.data).map(item => {
@@ -42,6 +40,7 @@ const Project = () => {
                         des={item.des}
                         tec={item.tec}
                         img={item.img}
+                        data={item}
                     />
                 )
             })}

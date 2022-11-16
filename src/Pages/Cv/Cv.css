@@ -1,0 +1,11 @@
+.cv {
+  width: 90%;
+  height: 100vh;
+}
+@media (width <= 575px) {
+  .cv {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=Cv.css.map */

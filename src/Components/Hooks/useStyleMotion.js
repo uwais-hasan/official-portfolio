@@ -47,10 +47,10 @@ const useStyleMotion = (show) => {
         },
         rotateImg: {
 
-            visible: {
-                rotate: 360,
-                transition: {yoyo: Infinity, duration: 2, delay: .5}
-            }
+            // visible: {
+            //     rotate: 360,
+            //     transition: {yoyo: Infinity, duration: 2, delay: .5}
+            // }
         },
         animateIcons: {
             hidden: {
@@ -93,7 +93,7 @@ const useStyleMotion = (show) => {
             },
             visible: {
                 x: 0,
-                transition: {delay: 1.1, duration: .3, ease: 'easeInOut', type: 'spring', stiffness: 500}
+                transition: {delay: .3, duration: .3, ease: 'easeInOut', type: 'spring', stiffness: 50}
             }
         },
         exitRouter: {

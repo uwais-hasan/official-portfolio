@@ -15,6 +15,16 @@
 
 
  "data":{
+   "E-commerce-node":{
+     "param":  "E-commerce-node",
+     "name":"متجر ماكوالات باستخدام النود جي اس",
+     "des":" تستطيع تسجيل الدخول وشراء بعض الماكولات والبحث عن الماكولات كما يمكنك اضافة وحذف المنتجات اذا كنت مدير في الموقع كما لديك صفحة خاصة بك تحتوي على معلومات الشخصية",
+     "link":["https://github.com/owies-hassan/Node-ecommerce"," http://owies-ecomerce2022.surge.sh"],
+     "img":["../Img/ecommerce-node/eco-1.png","../Img/ecommerce-node/eco-2.png","../Img/ecommerce-node/eco-3.png","../Img/ecommerce-node/eco-4.png","../Img/ecommerce-node/eco-5.png","../Img/ecommerce-node/eco-6.png","../Img/ecommerce-node/eco-7.png","../Img/ecommerce-node/eco-8.png","../Img/ecommerce-node/eco-9.png"],
+     "tec":["react","node","redux","sass","axios","swiper","animate.css","react-router-dom","material ui"],
+     "future":["تستطيع تسجيل الدخول او التسجيل","يمكنن شراء منتجات كثيرة","لديك صفحة شخصية تحتوي على معلومات الشخصية ويمكنك تعديها","يمكنك اليحث عن اي منتج تريده","يمكنك مشاهدة صفحة الداش بورد لكن لايمكنك التحكم باي شي الا اذا كنت ادمن","الموقع ريسبونسف"],
+     "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
+   },
    "Other portfolio for test":{
      "param": "Other portfolio for test",
      "name":"محفظة أخرى للاختبار",
@@ -39,9 +49,9 @@
    },
    "project Movies":{
      "param":"project Movies",
-     "name":"بروجيكت الافلام",
+     "name":"تطبيق الافلام",
      "des":"يحتوي هذا المشروع على جميع الأفلام والمسلسلات والأفلام الشائعة وجميع أنواع الأفلام [أكشن ، تلفزيون ، أنمي ، رعب ، إلخ ..] يمكنك البحث عن فيلمك وإظهار تفاصيل هذه الأفلام",
-     "link":["https://github.com/owies-hassan/movies","http://films-owies.surge.sh"],
+     "link":["https://github.com/owies-hassan/movies","http://movies-egbest.surge.sh"],
      "img":["../Img/Movies/movies-1.jpg","../Img/Movies/movies-2.jpg","../Img/Movies/movies-3.jpg","../Img/Movies/movies-4.jpg","../Img/Movies/movies-5.jpg","../Img/Movies/movies-6.jpg"],
      "tec":["react","axios","swiper","react-router-dom","bootstrap","material ui"],
      "future":["صفحة تتجه للأفلام الجديدة وتحتوي على حوالي 5000 فيلم وأكثر" , "أيضًا صفحة للمسلسلات والتلفزيون" , "صفحة للحصول على تفاصيل الفيلم (عرض جميع النجوم والمقطع الدعائي ووصف عن الفيلم)" , "صفحة للبحث عن أي فيلم أنت في حاجة إليها وصفحات للمسلسلات والتلفزيون "," يمكنك تصفية أي نوع من الأفلام ، على سبيل المثال يمكنك الحصول على جميع الأفلام التي تحتوي على حركة أو دراما وما إلى ذلك ... "," أقوم بإنشاء ترقيم الصفحات عندما تحتاج إلى عرض المزيد من الأفلام ويمكنك العثور عليها على صفحات البرامج التلفزيونية الرائجة والمسلسلات "],
@@ -49,8 +59,8 @@
 
    },
    "App Quiz":{
-     "param": "App Quiz",
-     "name":"بروجيكت الاسئلة",
+     "param":"App Quiz",
+     "name":"تطبيق الاسئلة",
      "des":"يمكنك اختبار معلوماتك حول هذا التطبيق ، ويمكنك اختيار نوع من الأسئلة [كتب ، وتقنيات ، وأفلام ، وما إلى ذلك ..] ونوع صعب السؤال [خطأ متعدد أو صحيح] وأيضًا يمكنك اختيار عدد من الأسئلة ربما تحتاج 5 سؤال أو 12 إلخ ... ",
      "link":["https://github.com/owies-hassan/application-quiz","http://applicatuin-quiz-owies.surge.sh"],
      "img":["../Img/quiz/quiz-2.jpg","../Img/quiz/quiz-1.jpg","../Img/quiz/quiz-3.jpg","../Img/quiz/quiz-4.jpg","../Img/quiz/quiz-5.jpg"],
@@ -58,39 +68,8 @@
      "future":["يمكنك اختيار فئة متعددة حول السؤال" , "مستجيب تمامًا" , "يمكنك تحديد مدى صعوبة [سهل ، متوسط ، صعب]" , "يمكنك تحديد مقدار الأسئلة" , "كل سؤال يحتاج إلى 30 ثانية للإجابة" , "إذا اخترت إجابة الخطأ ، فستعرف الإجابة الصحيحة" , "أخيرًا عند انتهاء التطبيق ، سترى النتيجة حول جميع المعلومات"],
      "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
 
-   },
-   "App Weather":{
-     "param":"App Weather",
-     "name":"بروجيكت الطقس",
-     "des":"عرض حالة الطقس في ولايتك حاليًا على بلدك مع توقعات لمدة أسبوع",
-     "link":["https://github.com/owies-hassan/weather"," http://application-weather-owies.surge.sh"],
-     "img":["../Img/weather/weather-1.png","../Img/weather/weather-2.png","../Img/weather/weather-3.png","../Img/weather/weather-4.png"],
-     "tec":["react","redux","sass","axios","swiper","bootstrap-icons"],
-     "future":["عرض حالة الطقس حاليًا" , "عرض تنبؤات الطقس بالولاية" , "استجابة كاملة" , "تغيير صورة الخلفية لطقس الاتفاق" , "يمكنك إظهار جميع التوقعات للأسبوع" , "يمكنك البحث عن الطقس تلقائيًا وستظهر حالة الطقس"],
-     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
-
-   },
-   "App E-commerce":{
-     "param":  "App E-commerce",
-     "name":"بروجيكت متجر الكتروني",
-     "des":"يمكنك شراء الكثير من المنتجات ورؤية تفاصيل حول أي منتج .. صفحات مقصودة أيضًا بمستوى عالٍ من الأداء ، والاستجابة الكاملة ، وتحسين الصور,",
-     "link":["https://github.com/owies-hassan/E-commerce"," http://e-commerce-owies.surge.sh"],
-     "img":["../Img/ecommerce/ecommerce-1.png","../Img/ecommerce/ecommerce-1.5.png","../Img/ecommerce/ecommerce-2.png","../Img/ecommerce/ecommerce-3.png","../Img/ecommerce/ecommerce-4.png","../Img/ecommerce/ecommerce-5.png","../Img/ecommerce/ecommerce-6.png","../Img/ecommerce/ecommerce-7.png","../Img/ecommerce/ecommerce-8.png","../Img/ecommerce/ecommerce-9.png","../Img/ecommerce/ecommerce-10.png","../Img/ecommerce/ecommerce-11.png","../Img/ecommerce/ecommerce-12.png"],
-     "tec":["react","redux","sass","axios","swiper","animate.css","react-router-dom","material ui"],
-     "future":["يمكنك التسجيل وتسجيل الدخول" , "مستجيب تمامًا" , "الصفحة الرئيسية يمكنك تصفية أي فئة" , "صفحة تفاصيل المنتج" , "صفحة للشراء وإحصاء جميع الأسعار" , "صفحة المنتجات أيضًا ولكني وضعت جميع المنتجات عليها swiper "," لتحديث معلوماتك في ملف تعريف الصفحة "],
-     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
-   },
-   "App News":{
-     "param":  "App News",
-     "name":"بروجيكت الاخبار",
-     "des":"شاهد جميع أخبار العالم ويمكنك تحديد نوع الأخبار [رياضة ، تقنيات ، ثقافية ، إلخ ..] وتحقق من أي صحيفة [cnn ، إلخ ..] ويمكنك البحث عن أي أخبار تحتاجها",
-     "link":["https://github.com/owies-hassan/news-public","https://github.com/owies-hassan/news-public"],
-     "img":["../Img/news/news-1.png","../Img/news/news-2.png","../Img/news/news-3.png","../Img/news/news-4.png","../Img/news/news-5.png"],
-     "tec":["react","redux","sass","typescript","swiper"],
-     "future":["يمكنك مشاهدة الأخبار حاليًا" , "يمكنك الاطلاع على أخبار CNN و Axios والمزيد من الصحف" , "يمكنك اختيار أي بلد لمشاهدة الأخبار" , "يمكنك تحديد الأخبار [الرياضة ، السياسة ، الثقافة ، إلخ ..] "," يمكنك البحث عن أي أخبار "," عند النقر فوق أي أخبار ستترجم إلى تفاصيل الصفحة وسترى جميع الأخبار المتعلقة بهذه الأخبار "],
-     "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
-
    }
+
  }
 
 
