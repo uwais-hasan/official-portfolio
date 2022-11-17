@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage ": "http://owies.hassan.github.io/official-portfolio",
+  "homepage ": "https://owies.hassan.github.io/official-portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
