@@ -23,7 +23,6 @@ const Home = () => {
 
             <div className='section-info'>
                 <Container>
-                    <a href="cv.pdf " download="cv.pdf"  >adasdasdas</a>
                     <div className='content-info row justify-content-center align-items-center flex-wrap' >
                         <AboutMe/>
                         <ButtonLetStart/>

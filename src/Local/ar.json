@@ -19,7 +19,7 @@
      "param":  "E-commerce-node",
      "name":"متجر ماكوالات باستخدام النود جي اس",
      "des":" تستطيع تسجيل الدخول وشراء بعض الماكولات والبحث عن الماكولات كما يمكنك اضافة وحذف المنتجات اذا كنت مدير في الموقع كما لديك صفحة خاصة بك تحتوي على معلومات الشخصية",
-     "link":["https://github.com/owies-hassan/Node-ecommerce"," http://owies-ecomerce2022.surge.sh"],
+     "link":["https://github.com/owies-hassan/orderly"," http://orderly.surge.sh"],
      "img":["../Img/ecommerce-node/eco-1.png","../Img/ecommerce-node/eco-2.png","../Img/ecommerce-node/eco-3.png","../Img/ecommerce-node/eco-4.png","../Img/ecommerce-node/eco-5.png","../Img/ecommerce-node/eco-6.png","../Img/ecommerce-node/eco-7.png","../Img/ecommerce-node/eco-8.png","../Img/ecommerce-node/eco-9.png"],
      "tec":["react","node","redux","sass","axios","swiper","animate.css","react-router-dom","material ui"],
      "future":["تستطيع تسجيل الدخول او التسجيل","يمكنن شراء منتجات كثيرة","لديك صفحة شخصية تحتوي على معلومات الشخصية ويمكنك تعديها","يمكنك اليحث عن اي منتج تريده","يمكنك مشاهدة صفحة الداش بورد لكن لايمكنك التحكم باي شي الا اذا كنت ادمن","الموقع ريسبونسف"],
@@ -36,22 +36,23 @@
      "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
 
    },
-   "A big general template":{
-     "param": "A big general template",
-     "name":"نموذج عام كبير",
+   "gutenverse":{
+     "param": "gutenverse",
+     "name":"gutenverse",
      "des":"يحتوي هذا المشروع على حوالي 50 صفحة و بمستوى أداء عال ...",
-     "link":["https://github.com/owies-hassan/template","http://owies-h-template.surge.sh"],
+     "link":["https://github.com/owies-hassan/gutenverse-react","https://gutenverse-react.surge.sh/ "],
      "img":["../Img/template/template-1.jpg","../Img/template/template-2.jpg","../Img/template/template-3.jpg","../Img/template/template-4.jpg","../Img/template/template-5.jpg","../Img/template/template-6.jpg"],
      "tec":["react","redux","sass","axios","swiper","material ui","react-router-dom","react-instagram-embed","json"],
      "future":["يحتوي هذا القالب على حوالي 50 صفحة" , "يمكنك البحث عن أي صفحات (عمل البحث عند كتابة صفحة العنوان)" , "مستجيب تمامًا" , "يحتوي هذا القالب على فئة على الشريط الجانبي (طعام ، منشور ، إلخ ...)" , "لدينا نموذج Lightbox و swiper" , "معظم التصميم على سطح المكتب مختلف على الهاتف المحمول" , "سأجعلك تستكشف هذا النموذج لإظهار الكثير من الميزات الساحرة التي لم أتحدث عنها"],
      "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]
 
    },
+
    "project Movies":{
      "param":"project Movies",
      "name":"تطبيق الافلام",
      "des":"يحتوي هذا المشروع على جميع الأفلام والمسلسلات والأفلام الشائعة وجميع أنواع الأفلام [أكشن ، تلفزيون ، أنمي ، رعب ، إلخ ..] يمكنك البحث عن فيلمك وإظهار تفاصيل هذه الأفلام",
-     "link":["https://github.com/owies-hassan/movies","http://movies-egbest.surge.sh"],
+     "link":["https://github.com/owies-hassan/movies"," http://movies-egbest.surge.sh"],
      "img":["../Img/Movies/movies-1.jpg","../Img/Movies/movies-2.jpg","../Img/Movies/movies-3.jpg","../Img/Movies/movies-4.jpg","../Img/Movies/movies-5.jpg","../Img/Movies/movies-6.jpg"],
      "tec":["react","axios","swiper","react-router-dom","bootstrap","material ui"],
      "future":["صفحة تتجه للأفلام الجديدة وتحتوي على حوالي 5000 فيلم وأكثر" , "أيضًا صفحة للمسلسلات والتلفزيون" , "صفحة للحصول على تفاصيل الفيلم (عرض جميع النجوم والمقطع الدعائي ووصف عن الفيلم)" , "صفحة للبحث عن أي فيلم أنت في حاجة إليها وصفحات للمسلسلات والتلفزيون "," يمكنك تصفية أي نوع من الأفلام ، على سبيل المثال يمكنك الحصول على جميع الأفلام التي تحتوي على حركة أو دراما وما إلى ذلك ... "," أقوم بإنشاء ترقيم الصفحات عندما تحتاج إلى عرض المزيد من الأفلام ويمكنك العثور عليها على صفحات البرامج التلفزيونية الرائجة والمسلسلات "],
