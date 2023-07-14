@@ -13,6 +13,8 @@ const infoProject=[
 ]
 const skills=[
     'React',
+    "Next",
+    "Node",
     'React Query',
     'React Router Dom',
     'Redux',

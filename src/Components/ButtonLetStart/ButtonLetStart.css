@@ -5,5 +5,18 @@
 .btn-start span {
   width: 20px;
 }
+.padding{
+  padding-top:100px
 
+}
+@media (max-width: 575px) {
+  .padding{
+    padding-top: 21px;
+
+  }
+}
+.hoverLink:hover{
+  color: #0a58ca !important;
+
+}
 /*# sourceMappingURL=ButtonLetStart.css.map */

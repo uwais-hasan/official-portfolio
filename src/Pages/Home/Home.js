@@ -9,7 +9,7 @@ import {useTranslation} from "react-i18next";
 
 const Home = () => {
 
-    const style=useStyleMotion()
+
 
 
     return (

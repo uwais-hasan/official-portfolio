@@ -4,11 +4,12 @@ import {motion, useAnimation} from "framer-motion";
 
 import {NavLink} from 'react-router-dom'
 import useStyleMotion from "../Hooks/useStyleMotion";
+import {useTranslation} from "react-i18next";
 const ButtonLetStart = () => {
 
     const controls = useAnimation()
     const style=useStyleMotion()
-
+    const {t}=useTranslation()
     useEffect(() => {
 
      controls.start(i => ({
@@ -23,7 +24,9 @@ const ButtonLetStart = () => {
         <motion.div
             variants={style.animateStart}
             initial='hidden' animate='visible'
-            className='btn-start'>
+            className='btn-start padding'
+        style={{display:'flex',justifyContent:'center',alignItems:'center',gap:'15px'}}
+        >
           <NavLink  className='text-decoration-none white' to='/Project'>
               <motion.span
                   custom={2.1}
@@ -44,7 +47,9 @@ const ButtonLetStart = () => {
 
 
           </NavLink>
-            <span style={{fontSize:"20px"}}> click here</span>
+            <NavLink style={{fontSize:"20px"}} className='text-decoration-none ' to={'/Project'} >
+            <span className='hoverLink'  style={{color:"white",textDecoration:'none',width:'100px'}} >{t('getStart')}</span>
+            </NavLink>
         </motion.div>
     );
 };
