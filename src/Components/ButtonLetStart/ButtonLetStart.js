@@ -41,7 +41,10 @@ const ButtonLetStart = () => {
                   animate={controls}>
                   >
               </motion.span>
+
+
           </NavLink>
+            <span style={{fontSize:"20px"}}> click here</span>
         </motion.div>
     );
 };

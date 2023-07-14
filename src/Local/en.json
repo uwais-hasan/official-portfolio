@@ -13,34 +13,57 @@
   "live": "live",
 
 "data": {
-  "E-commerce-node":{
-    "param":  "E-commerce-node",
-    "name":"E-commerce-node",
-    "des":"you can login in or register,buy a lot of products,search products,profile user,dashBord products,and if you be an admin you can add and delete products and set any user to admin and so more also Landing pages with a high level of performance, fully responsive, image optimization",
-    "link":["https://github.com/owies-hassan/orderly"," http://orderly.surge.sh"],
-    "img":["../Img/ecommerce-node/eco-1.png","../Img/ecommerce-node/eco-2.png","../Img/ecommerce-node/eco-3.png","../Img/ecommerce-node/eco-4.png","../Img/ecommerce-node/eco-5.png","../Img/ecommerce-node/eco-6.png","../Img/ecommerce-node/eco-7.png","../Img/ecommerce-node/eco-8.png","../Img/ecommerce-node/eco-9.png"],
-    "tec":["react","node","redux","sass","axios","swiper","animate.css","react-router-dom","material ui"],
-    "future":["you can  register and login","buy a lot of products","Page dashBord","page profile user","add and delete product","fully responsive","page home you can filter any category","page details product","page for buy and count all prices","and so more"],
-    "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
+  "testament":{
+    "param":  "testament",
+    "name": "Will Writing Application",
+    "des": "An application that allows you to write your will with great security and ease, with many features that you choose to select the methods of writing the will. You can rely on friends' voting in terms of number or choose specific friends, and you can also make your will available to everyone.",
+    "link":["https://github.com/owies-hassan/testamentUser"," https://testament-user.vercel.app/"],
+    "img":["../Img/testament/1.png","../Img/testament/2.png","../Img/testament/3.png","../Img/testament/4.png","../Img/testament/5.png","../Img/testament/6.png","../Img/testament/.png","../Img/testament/8.png","../Img/testament/9.png"],
+    "tec":["next","redux","sass","axios","animate.css","material ui","il18next"],
+    "future": ["You can log in or register", "You can update all privacy information", "There are many options and methods to write your will", "The application supports two languages, Arabic and English", "Ease of use and navigation within the application", "Users can view the interaction and visibility of the voters", "There is a dedicated page to teach the user how to use the website"],
+    "howUse":["You Need To Setup [ next.js","clone this project or download on your device","npm install","npm run dev"]
+  },
+
+  "socialmedia":{
+    "param":  "socialmedia",
+    "name": " Social Media Application (Wateen)",
+    "des": "An application that allows you to write your will with great security and ease, with many features that you choose to select the methods of writing the will. You can rely on friends' voting in terms of number or choose specific friends, and you can also make your will available to everyone.",
+    "link":["https://github.com/owies-hassan/social_mern"," https://wateen-social-media.vercel.app/"],
+    "img":["../Img/socialMedia/1.png","../Img/socialMedia/2.png","../Img/socialMedia/3.png","../Img/socialMedia/4.png","../Img/socialMedia/5.png","../Img/socialMedia/6.png"],
+    "tec":["node","react","redux","sass","axios","material ui"],
+    "future": ["Login Panel", "You can create posts or take pictures using the camera", "You can comment, like, and reply to comments", "You can follow people", "You can edit personal information", "There is a site-specific messenger and you can make video calls or regular calls", "You can save posts", "You can search for friends"],
+    "howUse":["You Need To Setup [ node.js","clone this project or download on your device","npm install","cd client","npm install","cd backend","npm start"]
+  },
+
+  "tasks":{
+    "param":  "tasks",
+    "name":"  tasks ",
+    "des":"An application that allows you to write all your tasks in a simple and easy way.",
+    "link":["https://github.com/owies-hassan/tasks"," https://write-tasks.vercel.app/"],
+    "img":["../Img/tasks/1.png","../Img/tasks/2.png","../Img/tasks/3.png","../Img/tasks/4.png"],
+    "tec":["next","redux","sass","axios","animate.css","material ui","il18next"],
+    "future":["Ease of use in the application",
+      "You can edit tasks",
+      "You can delete tasks",
+      "You can mark tasks as complete if you have already completed them"],
+    "howUse":["You Need To Setup [ next.js","clone this project or download on your device","npm install","npm run dev"]
   },
   "Other portfolio for test":{
     "param": "Other portfolio for test",
     "name":"Other portfolio for test",
     "des":"this project contain some feature like dark mode and light mode and you can change all color on website  with high level of performance ",
-    "link":["https://github.com/owies-hassan/test-portfolio","http://test-portfolio-owies.surge.sh"],
+    "link":["https://github.com/owies-hassan/test-portfolio","https://test-myportfolio.vercel.app/"],
     "img":["../Img/portfolio/portfolio-1.png","../Img/portfolio/portfolio-2.png","../Img/portfolio/portfolio-3.png","../Img/portfolio/portfolio-4.png","../Img/portfolio/portfolio-5.png","../Img/portfolio/portfolio-6.png","../Img/portfolio/portfolio-7.png"],
     "tec":["react","redux","sass","react-router-dom","react-bootstrap-icons","react-simple-typewriter","framer-motion"],
     "future":["you can change color all the website","dark mode and light mode","Responsive SPA website with high level of performance,","progress degree dynamic run auto..."],
     "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
 
   },
-
-
   "gutenverse":{
     "param": "gutenverse",
     "name":"gutenverse",
     "des":"this project contain about 50 pages and with high level of performance...",
-    "link":["https://github.com/owies-hassan/gutenverse-react","https://gutenverse-react.surge.sh/ "],
+    "link":["https://github.com/owies-hassan/gutenverse-react","https://gutenverse.vercel.app/"],
     "img":["../Img/template/template-1.jpg","../Img/template/template-2.jpg","../Img/template/template-3.jpg","../Img/template/template-4.jpg","../Img/template/template-5.jpg","../Img/template/template-6.jpg"],
     "tec":["react","redux","sass","axios","swiper","material ui","react-router-dom","react-instagram-embed","json"],
     "future":["this template contain about 50 pages","you can search for any pages (the search work when you write title page)","fully responsive","this template contain category on sidebar (food,post etc...)","we have on template lightbox and swiper"," most of design on desktop different on mobile","I will making you explore this template to show a lot of feature witch I did not talk about it"],
@@ -48,21 +71,21 @@
 
   },
   "project Movies":{
-    "param":"project Movies",
-    "name":"project Movies",
-    "des":"this project contain all movies and series and trending and all kind of movies[action,tv,anime,horror etc..] you can search about your film and show details this films",
-    "link":["https://github.com/owies-hassan/movies"," http://movies-egbest.surge.sh"],
-    "img":["../Img/Movies/movies-1.jpg","../Img/Movies/movies-2.jpg","../Img/Movies/movies-3.jpg","../Img/Movies/movies-4.jpg","../Img/Movies/movies-5.jpg","../Img/Movies/movies-6.jpg"],
-    "tec":["react","axios","swiper","react-router-dom","bootstrap","material ui"],
-    "future":["page trending for new movies and contain about 5000 movies and more","also page for series and tv ","page for details movie (show all stars and trailer and desc about movie)","page for search for any movie you need it and pages for series and tv","you can filter any type of movies exmple you can get all movies contain action or drama etc...","I create the pagination when you need show more movies and you can find it on pages tv trending and series"],
-    "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
+  "param":"project Movies",
+  "name":"project Movies",
+  "des":"this project contain all movies and series and trending and all kind of movies[action,tv,anime,horror etc..] you can search about your film and show details this films",
+  "link":["https://github.com/owies-hassan/movies"," https://movies-owies.vercel.app/"],
+  "img":["../Img/Movies/movies-1.jpg","../Img/Movies/movies-2.jpg","../Img/Movies/movies-3.jpg","../Img/Movies/movies-4.jpg","../Img/Movies/movies-5.jpg","../Img/Movies/movies-6.jpg"],
+  "tec":["react","axios","swiper","react-router-dom","bootstrap","material ui"],
+  "future":["page trending for new movies and contain about 5000 movies and more","also page for series and tv ","page for details movie (show all stars and trailer and desc about movie)","page for search for any movie you need it and pages for series and tv","you can filter any type of movies exmple you can get all movies contain action or drama etc...","I create the pagination when you need show more movies and you can find it on pages tv trending and series"],
+  "howUse":["You Need To Setup [ nodejs ]on your machine","clone this project or download on your device","npm install","npm start"]
 
-  },
+},
   "App Quiz": {
     "param":"App Quiz",
     "name":"App Quiz",
     "des":"you can quiz your information about this app,you can pick kind of questions[books,technologies,film,etc..] and kind difficult of question [multiple or true false] and also you can pick number of question perhaps you need 5 question or 12 etc...",
-    "link":["https://github.com/owies-hassan/application-quiz","http://applicatuin-quiz-owies.surge.sh"],
+    "link":["https://github.com/owies-hassan/application-quiz","https://application-quiz.vercel.app/"],
     "img":["../Img/quiz/quiz-2.jpg","../Img/quiz/quiz-1.jpg","../Img/quiz/quiz-3.jpg","../Img/quiz/quiz-4.jpg","../Img/quiz/quiz-5.jpg"],
     "tec":["react","redux","swiper","axios","react-route-dom","animate.css","material ui"],
     "future":["you can pick multiple category about question","fully responsive","you can determine how difficult [easy,medium,hard]","you can determine amount the questions","every question need to 30 second to answer","if you pick the error answer you will know what the truth answer","finlly when the application done you will see the result about all information"],

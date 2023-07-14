@@ -1,37 +1,34 @@
 import {useEffect, useState} from "react";
-
+import { Document, Page,pdfjs } from 'react-pdf';
 import './Cv.css'
 import Loading from "../../Components/Loading/Loading";
+pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
+
 const Cv = () => {
     const [state, setState] = useState(true)
-    const [counter, setCounter] = useState(0)
 
-    useEffect(()=>{
-        const timer=setTimeout(()=>{
-          if (counter<10){
-             setCounter(prevState => prevState+1)
-          }else {
-              setState(false)
-          }
-        },500)
 
-       return ()=>{
-           clearTimeout(timer)
-        }
-    },[counter])
+
+  useEffect(()=>{
+      pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
+      setState(false)
+  },[])
+
 
 
     return (
-        <div className='cv'>
-            {state && <Loading/>}
-            <iframe
+        <div className='CV.pdf'>
+            {state ? <Loading/> :
+             <div style={{display:'none'}}>
+                 <Document
+                     file="./Cv.pdf"
 
-                src="https://onedrive.live.com/embed?resid=D0DC86218667DF26%218977&amp;authkey=!AGXDhBJvT0a9Dlk&amp;em=2"
-                style={{width: "100%", height: "100%", zIndex: 10}} frameBorder="0">This is an embedded <a
-                target="_blank" href="https://office.com">Microsoft
-                Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.
-            </iframe>
+                 >
 
+                 </Document>
+             </div>
+
+            }
 
 
         </div>
