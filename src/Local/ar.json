@@ -31,7 +31,7 @@
      "name":"تطبيق سوشال ميديا(wateen) ",
      "des":" تطبيق يمكنك من كتابة وصيتك بأمان كبير وسهولة، مع العديد من المميزات التي تختارها لاختيار طرق كتابة الوصية. يمكنك الاعتماد على تصويت الأصدقاء من حيث العدد أو اختيار اصدقاء خاصيين ، ويمكنك أيضًا جعل وصيتك متاحة للجميع.",
      "link":["https://github.com/owies-hassan/social_mern"," https://wateen-social-media.vercel.app/"],
-     "img":["../Img/socialMedia/1.png","../Img/socialMedia/2.png","../Img/socialMedia/3.png","../Img/socialMedia/4.png","../Img/socialMedia/5.png","../Img/socialMedia/6.png"],
+     "img":["../Img/socialmedia/1.png","../Img/socialmedia/2.png","../Img/socialmedia/3.png","../Img/socialmedia/4.png","../Img/socialmedia/5.png","../Img/socialmedia/6.png"],
      "tec":["node","react","redux","sass","axios","material ui"],
      "future": ["لوحة تسجيل الدخول", "يمكنك إنشاء منشورات أو التقاط صور باستخدام الكاميرا", "يمكنك التعليق، الإعجاب والرد على التعليقات", "يمكنك متابعة الأشخاص", "يمكنك تعديل المعلومات الشخصية", "يوجد مراسلة خاصة بالموقع ويمكنك إجراء مكالمات فيديو أو مكالمات عادية", "يمكنك حفظ المنشورات", "يمكنك البحث عن أصدقاء"],
      "howUse":["تحتاج إلى إعداد [nodejs] على جهازك" , "استنساخ هذا المشروع أو تنزيله على جهازك" , "تثبيت npm" , "بدء npm"]

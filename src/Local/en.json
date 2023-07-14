@@ -63,12 +63,12 @@
         " https://wateen-social-media.vercel.app/"
       ],
       "img": [
-        "../Img/socialMedia/1.png",
-        "../Img/socialMedia/2.png",
-        "../Img/socialMedia/3.png",
-        "../Img/socialMedia/4.png",
-        "../Img/socialMedia/5.png",
-        "../Img/socialMedia/6.png"
+        "../Img/socialmedia/1.png",
+        "../Img/socialmedia/2.png",
+        "../Img/socialmedia/3.png",
+        "../Img/socialmedia/4.png",
+        "../Img/socialmedia/5.png",
+        "../Img/socialmedia/6.png"
       ],
       "tec": [
         "node",
