@@ -5,6 +5,7 @@
 @media (width <= 575px) {
   .cv {
     width: 100%;
+    padding-top: 36px;
   }
 }
 
