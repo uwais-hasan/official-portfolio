@@ -22,10 +22,10 @@ const style=useStyleMotion()
                 <motion.div
 
                     className='icons'>
-                    <motion.a href='https://www.linkedin.com/in/owies-hassan-803024231' variants={style.animationSvg} whileHover='hover'> <Linkedin/></motion.a>
+                    <motion.a href='https://www.linkedin.com/in/uwais-hasan-803024231' variants={style.animationSvg} whileHover='hover'> <Linkedin/></motion.a>
                     <motion.a href='https://www.facebook.com/profile.php?id=100010097286350' variants={style.animationSvg} whileHover='hover'><Facebook/></motion.a>
-                    <motion.a href='https://github.com/owies-hassan' variants={style.animationSvg} whileHover='hover'> <Github/></motion.a>
-                    <motion.a href='https://mailto:owies.h.hassan@gmail.com' variants={style.animationSvg} whileHover='hover'><Envelope/></motion.a>
+                    <motion.a href='https://github.com/uwais-hasan' variants={style.animationSvg} whileHover='hover'> <Github/></motion.a>
+                    <motion.a href='https://mailto:uwais.h.a.hasan@gmail.com' variants={style.animationSvg} whileHover='hover'><Envelope/></motion.a>
                 </motion.div>
             </motion.div>
         </Fragment>

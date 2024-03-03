@@ -28,7 +28,7 @@ const Cv = () => {
 
                  <iframe
 
-                     src="https://onedrive.live.com/embed?resid=3A4227ACE46EBE75%21170&amp;authkey=!AE1mpC9C9a1lV9U&amp;em=2"
+                     src="https://onedrive.live.com/embed?resid=3A4227ACE46EBE75%21321&amp;authkey=!AM5eIJCRA7iHfl8&amp;em=2"
                      style={{width: "100%", height: "100vh", zIndex: 10,}} frameBorder="0">This is an embedded <a
                      target="_blank" href="https://office.com">Microsoft
                      Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.

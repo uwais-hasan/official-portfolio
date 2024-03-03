@@ -1,8 +1,8 @@
 {
-  "name": "Owies Hassan",
-  "about_me": "Frontend web developer with a wide range of skills and techniques",
-  "more_about_me": "An innovative frontend developer. Passionate about getting the highest performance possible. Maintains up to date awareness of technological trends and technological advances.",
-  "career": "Front end developer",
+  "name": "Uwais Hasan",
+  "about_me": "Web developer with a wide range of skills and techniques",
+  "more_about_me": "An innovative web developer. Passionate about getting the highest performance possible. Maintains up to date awareness of technological trends and technological advances.",
+  "career": "Web end developer",
   "skills": "skills",
   "language": "language",
   "see_more": " see more ",
@@ -15,7 +15,7 @@
       "name": "Will Writing Application",
       "des": "An application that allows you to write your will with great security and ease, with many features that you choose to select the methods of writing the will. You can rely on friends' voting in terms of number or choose specific friends, and you can also make your will available to everyone.",
       "link": [
-        "https://github.com/owies-hassan/testamentUser",
+        "https://github.com/uwais-hasan/testamentUser",
         " https://testament-user.vercel.app/"
       ],
       "img": [
@@ -59,7 +59,7 @@
       "name": " Social Media Application (Wateen)",
       "des": "An application that allows you to write your will with great security and ease, with many features that you choose to select the methods of writing the will. You can rely on friends' voting in terms of number or choose specific friends, and you can also make your will available to everyone.",
       "link": [
-        "https://github.com/owies-hassan/social_mern",
+        "https://github.com/uwais-hasan/social_mern",
         " https://wateen-social-media.vercel.app/"
       ],
       "img": [
@@ -103,7 +103,7 @@
       "name": "  tasks ",
       "des": "An application that allows you to write all your tasks in a simple and easy way.",
       "link": [
-        "https://github.com/owies-hassan/tasks",
+        "https://github.com/uwais-hasan/tasks",
         " https://write-tasks.vercel.app/"
       ],
       "img": [
@@ -139,8 +139,8 @@
       "name": "Other portfolio for test",
       "des": "this project contain some feature like dark mode and light mode and you can change all color on website  with high level of performance ",
       "link": [
-        "https://github.com/owies-hassan/test-portfolio",
-        "https://test-myportfolio.vercel.app/"
+        "https://github.com/uwais-hasan/test-portfolio",
+        "https://test-portfolio-old.vercel.app/"
       ],
       "img": [
         "../Img/portfolio/portfolio-1.png",
@@ -178,8 +178,8 @@
       "name": "gutenverse",
       "des": "this project contain about 50 pages and with high level of performance...",
       "link": [
-        "https://github.com/owies-hassan/gutenverse-react",
-        "https://gutenverse.vercel.app/"
+        "https://github.com/uwais-hasan/gutenverse-react",
+        "https://gutenverse-react.vercel.app/"
       ],
       "img": [
         "../Img/template/template-1.jpg",
@@ -221,8 +221,8 @@
       "name": "project Movies",
       "des": "this project contain all movies and series and trending and all kind of movies[action,tv,anime,horror etc..] you can search about your film and show details this films",
       "link": [
-        "https://github.com/owies-hassan/movies",
-        " https://movies-owies.vercel.app/"
+        "https://github.com/uwais-hasan/movies",
+        " https://movies-uwais.vercel.app/"
       ],
       "img": [
         "../Img/Movies/movies-1.jpg",
@@ -260,7 +260,7 @@
       "name": "App Quiz",
       "des": "you can quiz your information about this app,you can pick kind of questions[books,technologies,film,etc..] and kind difficult of question [multiple or true false] and also you can pick number of question perhaps you need 5 question or 12 etc...",
       "link": [
-        "https://github.com/owies-hassan/application-quiz",
+        "https://github.com/uwais-hasan/application-quiz",
         "https://application-quiz.vercel.app/"
       ],
       "img": [
